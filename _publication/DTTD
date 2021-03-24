@@ -1,0 +1,13 @@
+## BibTex
+
+If our paper and codes are helpful for you research, please cite our paper:
+
+<pre>
+@inproceedings{ChenDTTD2021,
+  author    = {Zhengyu Chen and Ziqing Xu and Donglin Wang},
+  title     = {Deep Transfer Tensor Decomposition with Orthogonal Constraint for Recommender Systems},
+  booktitle = {The Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI} 2021},
+  month = {February},
+  year      = {2021},
+}
+</pre>
