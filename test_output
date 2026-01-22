@@ -1,0 +1,544 @@
+@article{Chen2025_1,
+  title={Revisiting Scaling Laws for Language Models: The Role of Data Quality and Training Strategies},
+  author={Z Chen, S Wang, T Xiao, Y Wang, S Chen, X Cai, J He, J Wang},
+  year={2025},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:nRpfm8aw39MC},
+  citations={219}
+}
+
+@article{Chen2021_2,
+  title={Pareto self-supervised training for few-shot learning},
+  author={Z Chen, J Ge, H Zhan, S Huang, D Wang},
+  year={2021},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:43bX7VzcjpAC},
+  citations={163}
+}
+
+@article{Chen2024_3,
+  title={Learning to reweight for generalizable graph neural network},
+  author={Z Chen, T Xiao, K Kuang, Z Lv, M Zhang, J Yang, C Lu, H Yang, F Wu},
+  year={2024},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:U4n9YNQMCAIC},
+  citations={140}
+}
+
+@article{Xiao2022_4,
+  title={Decoupled self-supervised learning for graphs},
+  author={T Xiao, Z Chen, Z Guo, Z Zhuang, S Wang},
+  year={2022},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:0izLItjtcgwC},
+  citations={107}
+}
+
+@article{Xiao2021_5,
+  title={Learning how to propagate messages in graph neural networks},
+  author={T Xiao, Z Chen, D Wang, S Wang},
+  year={2021},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:jgBuDB5drN8C},
+  citations={99}
+}
+
+@article{Xiao2023_6,
+  title={Simple and asymmetric graph contrastive learning without augmentations},
+  author={T Xiao, H Zhu, Z Chen, S Wang},
+  year={2023},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:NyGDZy8z5eUC},
+  citations={87}
+}
+
+@article{Lv2023_7,
+  title={Duet: A tuning-free device-cloud collaborative parameters generation framework for efficient device model generalization},
+  author={Z Lv, W Zhang, S Zhang, K Kuang, F Wang, Y Wang, Z Chen, T Shen, ...},
+  year={2023},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:IRz6iEL74y4C},
+  citations={70}
+}
+
+@article{Chen2022_8,
+  title={Ba-gnn: On learning bias-aware graph neural network},
+  author={Z Chen, T Xiao, K Kuang},
+  year={2022},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:mNrWkgRL2YcC},
+  citations={70}
+}
+
+@article{Huang2024_9,
+  title={Open-finllms: Open multimodal large language models for financial applications},
+  author={J Huang, M Xiao, D Li, Z Jiang, Y Yang, Y Zhang, L Qian, Y Wang, X Peng, ...},
+  year={2024},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:1taIhTC69MYC},
+  citations={67}
+}
+
+@article{Chen2021_10,
+  title={Deep transfer tensor decomposition with orthogonal constraint for recommender systems},
+  author={Z Chen, Z Xu, D Wang},
+  year={2021},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:_FxGoFyzp5QC},
+  citations={60}
+}
+
+@article{Chen2024_11,
+  title={Mapo: Boosting large language model performance with model-adaptive prompt optimization},
+  author={Y Chen, Z Wen, G Fan, Z Chen, W Wu, D Liu, Z Li, B Liu, Y Xiao},
+  year={2024},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:uDGL6kOW6j0C},
+  citations={49}
+}
+
+@article{Lv2024_12,
+  title={Intelligent model update strategy for sequential recommendation},
+  author={Z Lv, W Zhang, Z Chen, S Zhang, K Kuang},
+  year={2024},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:nZcligLrVowC},
+  citations={45}
+}
+
+@article{Ai2024_13,
+  title={DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation},
+  author={Y Ai, X Zhou, H Huang, X Han, Z Chen, Q You, H Yang},
+  year={2024},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:kw52XkFRtyQC},
+  citations={33}
+}
+
+@article{Xiao2023_14,
+  title={Reconsidering learning objectives in unbiased recommendation: A distribution shift perspective},
+  author={T Xiao, Z Chen, S Wang},
+  year={2023},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:OR75R8vi5nAC},
+  citations={32}
+}
+
+@article{Chen2025_15,
+  title={Attributive reasoning for hallucination diagnosis of large language models},
+  author={Y Chen, Z Li, S You, Z Chen, J Chang, Y Zhang, W Dai, Q Guo, Y Xiao},
+  year={2025},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:LdasjJ6CEcoC},
+  citations={29}
+}
+
+@article{Liu2022_16,
+  title={Learn goal-conditioned policy with intrinsic motivation for deep reinforcement learning},
+  author={J Liu, D Wang, Q Tian, Z Chen},
+  year={2022},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:zA6iFVUQeVQC},
+  citations={29}
+}
+
+@article{Hu2024_17,
+  title={Explaining length bias in llm-based preference evaluations},
+  author={Z Hu, L Song, J Zhang, Z Xiao, T Wang, Z Chen, NJ Yuan, J Lian, K Ding, ...},
+  year={2024},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:PaBasH6fAo0C},
+  citations={28}
+}
+
+@article{Zhang2023_18,
+  title={Map: Towards balanced generalization of iid and ood through model-agnostic adapters},
+  author={M Zhang, J Yuan, Y He, W Li, Z Chen, K Kuang},
+  year={2023},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:Ehil0879vHcC},
+  citations={26}
+}
+
+@article{Huang2022_19,
+  title={End-to-end open-set semi-supervised node classification with out-of-distribution detection},
+  author={T Huang, D Wang, Y Fang, Z Chen},
+  year={2022},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:NJ774b8OgUMC},
+  citations={25}
+}
+
+@article{Xiao2025_20,
+  title={SimPER: A Minimalist Approach to Preference Alignment without Hyperparameters},
+  author={T Xiao, Y Yuan, Z Chen, M Li, S Liang, Z Ren, VG Honavar},
+  year={2025},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:ALROH1vI_8AC},
+  citations={23}
+}
+
+@article{Jiang2022_21,
+  title={The role of deconfounding in meta-learning},
+  author={Y Jiang, Z Chen, K Kuang, L Yuan, X Ye, Z Wang, F Wu, Y Wei},
+  year={2022},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:FAceZFleit8C},
+  citations={23}
+}
+
+@article{Wang2020_22,
+  title={Global and local tensor factorization for multi-criteria recommender system},
+  author={S Wang, J Yang, Z Chen, H Yuan, J Geng, Z Hai},
+  year={2020},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:8d8msizDQcsC},
+  citations={22}
+}
+
+@article{Jagatap2018_23,
+  title={Sub-diffraction imaging using fourier ptychography and structured sparsity},
+  author={G Jagatap, Z Chen, C Hegde, N Vaswani},
+  year={2018},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:WC23djZS0W4C},
+  citations={21}
+}
+
+@article{Chen2018_24,
+  title={Low rank fourier ptychography},
+  author={Z Chen, G Jagatap, S Nayer, C Hegde, N Vaswani},
+  year={2018},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:L1USKYWJimsC},
+  citations={20}
+}
+
+@article{Xiao2025_25,
+  title={On a connection between imitation learning and RLHF},
+  author={T Xiao, Y Yuan, M Li, Z Chen, VG Honavar},
+  year={2025},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:48xauSegjOkC},
+  citations={19}
+}
+
+@article{Wang2020_26,
+  title={Global and local tensor factorization for multi-criteria recommender system},
+  author={S Wang, J Yang, Z Chen, H Yuan, J Geng, Z Hai},
+  year={2020},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:FiytvqdAVhgC},
+  citations={16}
+}
+
+@article{Wang2024_27,
+  title={Scaling laws across model architectures: A comparative analysis of dense and MoE models in large language models},
+  author={S Wang, Z Chen, B Li, K He, M Zhang, J Wang},
+  year={2024},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:u-coK7KVo8oC},
+  citations={15}
+}
+
+@article{Yang2025_28,
+  title={Mix data or merge models? balancing the helpfulness, honesty, and harmlessness of large language model via model merging},
+  author={J Yang, D Jin, A Tang, L Shen, D Zhu, Z Chen, Z Zhao, D Wang, Q Cui, ...},
+  year={2025},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:0CzhzZyukY4C},
+  citations={14}
+}
+
+@article{Yang2024_29,
+  title={Mitigating the Backdoor Effect for Multi-Task Model Merging via Safety-Aware Subspace},
+  author={J Yang, A Tang, D Zhu, Z Chen, L Shen, F Wu},
+  year={2024},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:5icHVeHT4IsC},
+  citations={14}
+}
+
+@article{Hu2024_30,
+  title={Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning},
+  author={Z Hu, Y Li, Z Chen, J Wang, H Liu, K Lee, K Ding},
+  year={2024},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:Aul-kAQHnToC},
+  citations={14}
+}
+
+@article{Hu2024_31,
+  title={Rethinking llm-based preference evaluation},
+  author={Z Hu, L Song, J Zhang, Z Xiao, J Wang, Z Chen, J Zhao, H Xiong},
+  year={2024},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:8xutWZnSdmoC},
+  citations={14}
+}
+
+@article{Lu2022_32,
+  title={Knowledge distillation of transformer-based language models revisited},
+  author={C Lu, J Zhang, Y Chu, Z Chen, J Zhou, F Wu, H Chen, H Yang},
+  year={2022},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:a9-T7VOCCH8C},
+  citations={14}
+}
+
+@article{Xiao2022_33,
+  title={Representation matters when learning from biased feedback in recommendation},
+  author={T Xiao, Z Chen, S Wang},
+  year={2022},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:LO7wyVUgiFcC},
+  citations={13}
+}
+
+@article{Team2025_34,
+  title={Longcat-flash technical report},
+  author={MLC Team, B Li, B Lei, B Wang, B Rong, C Wang, C Zhang, C Gao, ...},
+  year={2025},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:7wO8s98CvbsC},
+  citations={11}
+}
+
+@article{Yang2025_35,
+  title={Leveraging invariant principle for heterophilic graph structure distribution shifts},
+  author={J Yang, Z Chen, T Xiao, Y Lin, W Zhang, K Kuang},
+  year={2025},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:fbc8zXXH2BUC},
+  citations={10}
+}
+
+@article{Zhang2024_36,
+  title={Transferring causal mechanism over meta-representations for target-unknown cross-domain recommendation},
+  author={S Zhang, Q Miao, P Nie, M Li, Z Chen, F Feng, K Kuang, F Wu},
+  year={2024},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:F9fV5C73w3QC},
+  citations={10}
+}
+
+@article{Gai2021_37,
+  title={Multi-modal meta continual learning},
+  author={S Gai, Z Chen, D Wang},
+  year={2021},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:qxL8FJ1GzNcC},
+  citations={10}
+}
+
+@article{Lyu2019_38,
+  title={6-in dual-gate ring commutated thyristor for DC circuit breakers},
+  author={G Lyu, Z Yu, W Zhou, C Xu, Z Chen, B Zhao, J Liu, R Zeng},
+  year={2019},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:artPoR2Yc-kC},
+  citations={10}
+}
+
+@article{Cheng2018_39,
+  title={Enhancement of underwater images by super-resolution generative adversarial networks},
+  author={N Cheng, T Zhao, Z Chen, X Fu},
+  year={2018},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:bKqednn6t2AC},
+  citations={10}
+}
+
+@article{Mi2018_40,
+  title={Multi-scale gradient domain underwater image enhancement},
+  author={Z Mi, Z Liang, Y Wang, X Fu, Z Chen},
+  year={2018},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:yFnVuubrUp4C},
+  citations={10}
+}
+
+@article{Zhu2024_41,
+  title={InMu-Net:Advancing Multi-modal Intent Detection via Information Bottleneck and Multi-sensory Processing},
+  author={Z Zhu, X Cheng, Z Chen, Y Chen, Y Zhang, X Wu, Y Zheng, B Xing},
+  year={2024},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:5MTHONV0fEkC},
+  citations={9}
+}
+
+@article{Shang2022_42,
+  title={A novel detachable gate driver unit with ultralow inductance for integrated gate commutated thyristor},
+  author={J Shang, Z Chen, B Zhao, Z Yu, J Wu, L Dong, R Zeng},
+  year={2022},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:Bg7qf7VwUHIC},
+  citations={7}
+}
+
+@article{Chen2020_43,
+  title={An Advanced 4-in Integrated Emitter Turn-offThyristor With Ultralow Commutation Impedance to Achieve 8 kA Turn-offCapability: Comprehensive Analysis …},
+  author={Z Chen, Z Yu, B Zhao, J Liu, J Shang, RW De Doncker, R Zeng},
+  year={2020},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:Ak0FvsSvgGUC},
+  citations={7}
+}
+
+@article{Liu2020_44,
+  title={Precise measurement methodology of nH-level gate electrode inductance based on Calculation-error-free algorithm for unity-gain turn-off devices},
+  author={J Liu, B Zhao, W Zhou, G Lyu, Z Chen, C Xu, Z Yu, R Zeng},
+  year={2020},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:gKiMpY-AVTkC},
+  citations={7}
+}
+
+@article{Chen2024_45,
+  title={Pareto graph self-supervised learning},
+  author={Z Chen, T Xiao, D Wang, M Zhang},
+  year={2024},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:P7Ujq4OLJYoC},
+  citations={6}
+}
+
+@article{Zhou2025_46,
+  title={Does Learning Mathematical Problem-Solving Generalize to Broader Reasoning?},
+  author={R Zhou, M Xu, S Chen, J Liu, Y Li, X Lin, Z Chen, J He},
+  year={2025},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:MpfHP-DdYjUC},
+  citations={5}
+}
+
+@article{Yang2024_47,
+  title={Discovering invariant neighborhood patterns for heterophilic graphs},
+  author={J Yang, R Zhang, Z Chen, T Xiao, Y Wang, F Wu, K Kuang},
+  year={2024},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:GFxP56DSvIMC},
+  citations={5}
+}
+
+@article{Dang2023_48,
+  title={Multi-level correlation network for few-shot image classification},
+  author={Y Dang, M Sun, M Zhang, Z Chen, X Zhang, Z Wang, D Wang},
+  year={2023},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:yqoGN6RLRZoC},
+  citations={5}
+}
+
+@article{Chen2023_49,
+  title={Invariant graph neural network for out-of-distribution nodes},
+  author={Z Chen, Y Gong, L Yang, J Zhang, W Zhang, S He, X Zhang},
+  year={2023},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:3htObqc8RwsC},
+  citations={5}
+}
+
+@article{Xi2025_50,
+  title={SampleMix: A Sample-wise Pre-training Data Mixing Strategey by Coordinating Data Quality and Diversity},
+  author={X Xi, D Kong, J Yang, J Yang, Z Chen, W Wang, J Wang, X Cai, S Zhang, ...},
+  year={2025},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:1lhNe0rCu4AC},
+  citations={4}
+}
+
+@article{Zhou2024_51,
+  title={Math for AI: On the Generalization of Learning Mathematical Problem Solving},
+  author={R Zhou, M Xu, S Chen, J Liu, Y Li, LIN Xinxin, Z Chen, J He},
+  year={2024},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:6yz0xqPARnAC},
+  citations={3}
+}
+
+@article{Gong2023_52,
+  title={Using speech emotion recognition as a longitudinal biomarker for Alzheimer’s disease},
+  author={Y Gong, L Yang, J Zhang, Z Chen, S He, X Zhang, W Zhang},
+  year={2023},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:yMeIxYmEMEAC},
+  citations={3}
+}
+
+@article{Yang2025_53,
+  title={Unifying adversarial perturbation for graph neural networks},
+  author={J Yang, R Zhang, Z Chen, F Wu, K Kuang},
+  year={2025},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:jU7OWUQzBzMC},
+  citations={2}
+}
+
+@article{Yuan2020_54,
+  title={A Hybrid aspect based latent factor model for recommendation},
+  author={H Yuan, Z Chen, J Yang, S Wang, J Geng, C Ke},
+  year={2020},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:a3BOlSfXSfwC},
+  citations={2}
+}
+
+@article{Zhu2025_55,
+  title={Simple Denoising Diffusion Language Models},
+  author={H Zhu, Z Chen, S Zhou, Z Xie, Y Yuan, Z Guo, S Xu, H Zhang, V Honavar, ...},
+  year={2025},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:prdVHNxh-e8C},
+  citations={1}
+}
+
+@article{Team2025_56,
+  title={Introducing LongCat-Flash-Thinking: A Technical Report},
+  author={MLC Team, A Gui, B Li, B Tao, B Zhou, B Chen, C Zhang, C Han, C Yang, ...},
+  year={2025},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:-mN3Mh-tlDkC},
+  citations={1}
+}
+
+@article{Chen2025_57,
+  title={Sub-Scaling Laws: On the Role of Data Density and Training Strategies in LLMs},
+  author={Z Chen, S Wang, T Xiao, Y Wang, S Chen, X Cai, J He, J Wang},
+  year={2025},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:owLR8QvbtFgC},
+  citations={1}
+}
+
+@article{Chen2025_58,
+  title={From Mathematical Reasoning to Code: Generalization of Process Reward Models in Test-Time Scaling},
+  author={Z Chen, Y Wang, T Xiao, R Zhou, X Yang, W Wang, Z Sui, J Wang},
+  year={2025},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:ubry08Y2EpUC},
+  citations={1}
+}
+
+@article{Yang2024_59,
+  title={Robust Heterophily Graph Learning via Uniformity Augmentation},
+  author={X Yang, Z Chen, Y Zou},
+  year={2024},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:lvd772isFD0C},
+  citations={1}
+}
+
+@article{Zhang2023_60,
+  title={Robustness Evaluation of Multi-Agent Reinforcement Learning Algorithms using GNAs},
+  author={X Zhang, W Zhang, Y Gong, L Yang, J Zhang, Z Chen, S He},
+  year={2023},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:OTTXONDVkokC},
+  citations={1}
+}
+
+@article{Xiao2022_61,
+  title={Towards Bridging Algorithm and Theory for Unbiased Recommendation},
+  author={T Xiao, Z Chen, S Wang},
+  year={2022},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:HtEfBTGE9r8C},
+  citations={1}
+}
+
+@article{ChenUnknown_62,
+  title={From Scaling Law to Sub-Scaling Law: Understanding the Diminishing Returns of Larger Models},
+  author={Z Chen, S Wang, T Xiao, Y Wang, S Chen, X Cai, J He, J Wang},
+  year={Unknown},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:PYBJJbyH-FwC},
+  citations={1}
+}
+
+@article{Wang2025_63,
+  title={Scaling and Transferability of Annealing Strategies in Large Language Model Training},
+  author={S Wang, Z Chen, T Xiao, Z Lv, J Yang, X Cai, J Wang, X Li},
+  year={2025},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:XUvXOeBm_78C},
+  citations={0}
+}
+
+@article{Chen2025_64,
+  title={Can Tool-Integrated Reinforcement Learning Generalize Across Diverse Domains?},
+  author={Z Chen, J Yang, T Xiao, R Zhou, L Zhang, X Xi, X Shi, W Wang, J Wang},
+  year={2025},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:CB2v5VPnA5kC},
+  citations={0}
+}
+
+@article{Chen2024_65,
+  title={Learning to reweight for generalizable graph neural network},
+  author={Z Chen, T Xiao, K Kuang, Z Lv, M Zhang, J Yang, C Lu, H Yang, F Wu},
+  year={2024},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:ZzlSgRqYykMC},
+  citations={0}
+}
+
+@article{Chen2024_66,
+  title={Learning to reweight for generalizable graph neural network},
+  author={Z Chen, T Xiao, K Kuang, Z Lv, M Zhang, J Yang, C Lu, H Yang, F Wu},
+  year={2024},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:OP4eGU-M3BUC},
+  citations={0}
+}
+
+@article{Xiao2022_67,
+  title={Reconsidering Learning Objectives in Unbiased Recommendation with Unobserved Confounders},
+  author={T Xiao, Z Chen, S Wang},
+  year={2022},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:j7_hQOaDUrUC},
+  citations={0}
+}
+
+@article{Lv2022_68,
+  title={MetaNetwork: A Task-agnostic Network Parameters Generation Framework for Improving Device Model Generalization.},
+  author={Z Lv, F Wang, K Kuang, Y Wang, Z Chen, T Shen, H Yang, F Wu},
+  year={2022},
+  url={https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PqrvpbkAAAAJ&pagesize=100&citation_for_view=PqrvpbkAAAAJ:4hFrxpcac9AC},
+  citations={0}
+}
+
