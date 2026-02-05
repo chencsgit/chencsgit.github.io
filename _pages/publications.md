@@ -15,201 +15,173 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-This page shows all accepted papers. Click [here](./preprints.md) to see all (under-reviewing) preprints. † means the same contribution.
+This page shows selected recent publications. For a complete list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=PqrvpbkAAAAJ&hl=zh-CN). † means equal contribution.
 
 
 ## 2025
 
-- **Prejudge-Before-Think: Enhancing Large Language Models at Test-Time by Process Prejudge Reasoning** [[pdf](https://arxiv.org/pdf/2504.13500)][[bib](https://dblp.dagstuhl.de/rec/journals/corr/abs-2504-13500.html?view=bibtex)]
+- **Revisiting Scaling Laws for Language Models: The Role of Data Quality and Training Strategies**
 <br>
-**Jianing Wang**, Jin Jiang, Yang Liu, Mengdi Zhang, Xunliang Cai
-<br> The 2025 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2025**, Findings Paper)
+**Zhengyu Chen**, S Wang, Teng Xiao, Y Wang, S Chen, X Cai, J He, J Wang
+<br> The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**, Main Paper)
 
 
 
-- **Do Large Language Models Excel in Complex Logical Reasoning with Formal Language?** [[pdf](https://arxiv.org/pdf/2505.16998)][[bib](https://dblp.dagstuhl.de/rec/journals/corr/abs-2505-16998.html?view=bibtex)]
+- **SimPER: A Minimalist Approach to Preference Alignment without Hyperparameters**
 <br>
-Jin Jiang, **Jianing Wang**, Yuchen Yan, Yang Liu, Jianhua Zhu, Mengdi Zhang, Xunliang Cai, Liangcai Gao:
-<br> The 2025 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2025**, Main Paper)
+Teng Xiao, Yige Yuan, **Zhengyu Chen**, Mingxiao Li, Shangsong Liang, Zhaochun Ren, Vasant G Honavar
+<br> The 2025 International Conference on Learning Representations (**ICLR 2025**)
 
-
-
-- **Logicpro: Improving complex logical reasoning via program-guided learning** [[pdf](https://aclanthology.org/2025.acl-long.1270.pdf)][[bib](https://dblp.dagstuhl.de/rec/conf/acl/JiangYLWPCCZG25.html?view=bibtex)]
+- **On a connection between imitation learning and RLHF**
 <br>
-Jin Jiang, Yuchen Yan, Yang Liu, **Jianing Wang**, Shuai Peng, Xunliang Cai, Yixin Cao, Mengdi Zhang, Liangcai Gao
-<br> The 63nd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**, Main Paper)
+Teng Xiao, Yige Yuan, Mingxiao Li, **Zhengyu Chen**, Vasant G Honavar
+<br> The 2025 International Conference on Learning Representations (**ICLR 2025**)
 
-
-
-- **The Role of Visual Modality in Multimodal Mathematical Reasoning: Challenges and Insights** [[pdf](https://arxiv.org/pdf/2503.04167)][[bib](https://dblp.dagstuhl.de/rec/conf/acl/LiuDJWLWZZC25.html?view=bibtex)]
+- **Leveraging invariant principle for heterophilic graph structure distribution shifts**
 <br>
-Yufang Liu, Yao Du, Tao Ji, **Jianing Wang**, Yang Liu, Yuanbin Wu, Aimin Zhou, Mengdi Zhang, Xunliang Cai
-<br> The 63nd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**, Main Paper)
+Jinluan Yang, **Zhengyu Chen**, Teng Xiao, Yong Lin, Wenqiao Zhang, Kun Kuang
+<br> Proceedings of the ACM Web Conference 2025 (**WWW 2025**)
 
-
-
-- **OCEAN: Offline Chain-of-thought Evaluation and Alignment in Large Language Models** [[pdf](https://arxiv.org/pdf/2410.23703)][[bib](https://dblp.dagstuhl.de/rec/conf/iclr/WuLW0XWYCK0SM25.html?view=bibtex)]
+- **Attributive reasoning for hallucination diagnosis of large language models**
 <br>
-Junda Wu, Xintong Li, Ruoyu Wang, Yu Xia, Yuxin Xiong, **Jianing Wang**, Tong Yu, Xiang Chen, Branislav Kveton, Lina Yao, Jingbo Shang, Julian J. McAuley
-<br> The Thirteenth International Conference on Learning Representations (**ICLR 2025**)
+Yuyan Chen, Zehao Li, Shuangjie You, **Zhengyu Chen**, Jingwen Chang, Yi Zhang, Weinan Dai, Qingpei Guo, Yanghua Xiao
+<br> Proceedings of the 39th AAAI Conference on Artificial Intelligence (**AAAI 2025**)
 
 
 
 ## 2024
 
-- **Self-Evolutionary Large Language Models through Uncertainty-Enhanced Preference Optimization** [[pdf](https://arxiv.org/pdf/2409.11212)][[bib](https://dblp.uni-trier.de/rec/journals/corr/abs-2409-11212.html?view=bibtex)]
+- **Learning to reweight for generalizable graph neural network**
 <br>
-**Jianing Wang**, Yang Zhou, Xiaocheng Zhang, Mengjiao Bao, Peng Yan
-<br> Thirty-Ninth AAAI Conference on Artificial Intelligence (**AAAI 2025**, Long Paper)
+**Zhengyu Chen**, Teng Xiao, Kun Kuang, Zheqi Lv, Min Zhang, Jinluan Yang, Chengqiang Lu, Hongxia Yang, Fei Wu
+<br> Proceedings of the 38th AAAI Conference on Artificial Intelligence (**AAAI 2024**)
 
-
-- **CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation** [[pdf](https://arxiv.org/pdf/2403.06447)][[bib](https://scholar.googleusercontent.com/scholar.bib?q=info:JjkzPhY1jVgJ:scholar.google.com/&output=citation&scisdr=ClGniFkJEIGLgKBag0U:AFWwaeYAAAAAZg5cm0WDBMEEehIXFAQU4BLPp8I&scisig=AFWwaeYAAAAAZg5cm21lncD1QJGR7L2dPgfDvmo&scisf=4&ct=citation&cd=-1&hl=en)]
+- **Simple and asymmetric graph contrastive learning without augmentations**
 <br>
-Junda Wu, Cheng-Chun Chang, Tong Yu, Zhankui He, **Jianing Wang**, Yupeng Hou, Julian McAuley
-<br> The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**, Long Paper)
+Teng Xiao†, Huai Zhu, **Zhengyu Chen**, Suhang Wang
+<br> Advances in Neural Information Processing Systems 36 (**NeurIPS 2024**)
 
-- **Boosting language models reasoning with chain-of-knowledge prompting** [[pdf](https://arxiv.org/pdf/2306.06427)][[bib](https://dblp.dagstuhl.de/rec/journals/corr/abs-2306-06427.html?view=bibtex)]
+- **Pareto graph self-supervised learning**
 <br>
-**Jianing Wang**†, Qiushi Sun†, Xiang Li, Ming Gao
-<br> The 62nd Annual Meeting of the Association for Computational Linguistics (**ACL 2024**, Main Paper)
+**Zhengyu Chen**, Teng Xiao, Donglin Wang, Min Zhang
+<br> IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2024**)
 
-- **InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment** [[pdf](https://arxiv.org/pdf/2402.08785)][[bib](https://dblp.dagstuhl.de/rec/journals/corr/abs-2402-08785.html?view=bibtex)]
+- **Robust Heterophily Graph Learning via Uniformity Augmentation**
 <br>
-**Jianing Wang**, Junda Wu, Yupeng Hou, Yao Liu, Ming Gao, Julian J. McAuley
-<br> The 62nd Annual Meeting of the Association for Computational Linguistics (**ACL 2024**, Findings Paper)
+Xusheng Yang, **Zhengyu Chen**, Yuexian Zou
+<br> Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (**CIKM 2024**)
 
-- **Knowledgeable In-Context Tuning: Exploring and Exploiting Factual Knowledge for In-Context Learning** [[pdf](https://arxiv.org/pdf/2309.14771.pdf)][[bib](https://dblp.dagstuhl.de/rec/journals/corr/abs-2309-14771.html?view=bibtex)]
+- **Intelligent model update strategy for sequential recommendation**
 <br>
-**Jianing Wang**, Chengyu Wang, Chuanqi Tan, Jun Huang, Ming Gao
-<br> 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL 2024**, Findings Paper)
+Zheqi Lv, Wenqiao Zhang, **Zhengyu Chen**, Shengyu Zhang, Kun Kuang
+<br> Proceedings of the ACM Web Conference 2024 (**WWW 2024**)
 
-- **TransCoder: Towards unified transferable code representation learning inspired by human skills** [[pdf](https://arxiv.org/pdf/2306.07285.pdf)][[bib](https://dblp.dagstuhl.de/rec/journals/corr/abs-2306-07285.html?view=bibtex)]
+- **Mapo: Boosting large language model performance with model-adaptive prompt optimization**
 <br>
-Qiushi Sun, Nuo Chen, **Jianing Wang**, Xiang Li, Ming Gao
-<br> The 2024 Joint International Conference On Computation Linguistics, Language
-Resources And Evaluation (**COLING 2024**, Main Paper)
+Yuyan Chen, Zhihao Wen, Ge Fan, **Zhengyu Chen**, Wei Wu, Dayiheng Liu, Zhixu Li, Bang Liu, Yanghua Xiao
+<br> EMNLP 2023 Findings of the Association for Computational Linguistics (**EMNLP 2024**)
+
+- **Mitigating the Backdoor Effect for Multi-Task Model Merging via Safety-Aware Subspace**
+<br>
+Jinluan Yang, Anke Tang, Didi Zhu, **Zhengyu Chen**, Li Shen, Fei Wu
+<br> 2024 International Conference on Learning Representations (**ICLR 2024**)
+
+- **Transferring causal mechanism over meta-representations for target-unknown cross-domain recommendation**
+<br>
+Shengyu Zhang, Qiaowei Miao, Ping Nie, Mengze Li, **Zhengyu Chen**, Fuli Feng, Kun Kuang, Fei Wu
+<br> ACM Transactions on Information Systems 42 (4), 1-27 (**TOIS 2024**)
+
+- **Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning**
+<br>
+Zhengyu Hu, Yichuan Li, **Zhengyu Chen**, Jingang Wang, Han Liu, Kyumin Lee, Kaize Ding
+<br> Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2024**)
+
+- **Scaling laws across model architectures: A comparative analysis of dense and MoE models in large language models**
+<br>
+Siqi Wang, **Zhengyu Chen**, Bei Li, Keqing He, Min Zhang, Jingang Wang
+<br> Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2024**)
 
 ## 2023
 
-- **Uncertainty-aware Parameter-Efficient Self-training for Semi-supervised Language Understanding** [[pdf](https://arxiv.org/pdf/2310.13022.pdf)][[bib](https://dblp.org/rec/journals/corr/abs-2310-13022.html?view=bibtex)]
+- **Robustness Evaluation of Multi-Agent Reinforcement Learning Algorithms using Gaussian Noise Attacks**
 <br>
-**Jianing Wang**, Qiushi Sun, Nuo Chen, Chengyu Wang, Xiang Li, Ming Gao, Jun Huang
-<br>
-The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**, Findings Paper)
+Xusheng Zhang†, Wei Zhang, **Zhengyu Chen**, Sihong He
+<br> 2023 International Conference on Learning Representations (**ICLR 2023**)
 
+- **DUET: A Tuning-Free Device-Cloud Collaborative Parameters Generation Framework for Efficient Device Model Generalization**
+<br>
+Zheqi Lv, Wenqiao Zhang, Shengyu Zhang, **Zhengyu Chen**, Tao Shen, Hongxia Yang, Beng Chin Ooi, Fei Wu
+<br> Proceedings of the ACM Web Conference 2023 (**WWW 2023**)
 
-- **Prompting Large Language Models with Chain-of-Thought for Few-Shot Knowledge Base Question Generation** [[pdf](https://arxiv.org/pdf/2310.08395.pdf)][[bib](https://dblp.org/rec/journals/corr/abs-2310-08395.html?view=bibtex)]
+- **Reconsidering Learning Objectives in Unbiased Recommendation: A Distribution Shift Perspective**
 <br>
-Yuanyuan Liang, **Jianing Wang**, Hanlun Zhu, Lei Wang, Yunshi Lan, Weining Qian
-<br>
-The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**, Main Paper)
-
-
-- **Pass-Tuning: Towards Structure-Aware Parameter-Efficient Tuning for Code Representation Learning** 
-<br>
-Nuo Chen, Qiushi Sun, **Jianing Wang**, Xiang Li, Ming Gao
-<br>
-The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**, Findings Paper)
-
-
-- **Evaluating and Enhancing the Robustness of Code Pre-trained Models through Structure-Aware Adversarial Samples Generation** 
-<br>
-Nuo Chen, Qiushi Sun, **Jianing Wang**, Xiaoli Li, Xiang Li, Ming Gao
-<br>
-The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**, Findings Paper)
-
-
-- **HugNLP: A Unified and Comprehensive Library for Natural Language Processing** [[pdf](https://arxiv.org/pdf/2302.14286)][[bib](https://dblp.org/rec/journals/corr/abs-2302-14286.html?view=bibtex)]
-<br>
-**Jianing Wang**, Nuo Chen, Qiushi Sun, Wenkang Huang, Chengyu Wang, Ming Gao.
-<br>
-32nd ACM International Conference on Information and Knowledge Management (**CIKM 2023**, Demo Paper, **Best Demo Paper Award**)
-
-
-- **ParaSum: Contrastive Paraphrasing for Low-resource Extractive Text Summarization** [[pdf](https://link.springer.com/chapter/10.1007/978-3-031-40289-0_9)][[bib](https://dblp.org/rec/conf/ksem/TangWWCGQ23.html?view=bibtex)]
-<br>
-Moming Tang, Chengyu Wang, **Jianing Wang**, Cen Chen, Ming Gao and Weining Qian
-<br>
-The 16th International Conference on Knowledge Science, Engineering and Management (**KSEM 2023**, Full Paper)
-
-
-- **UKT: A Unified Knowledgeable Tuning Framework for Chinese Information Extraction**
-<br>
-Jiyong Zhou, Chengyu Wang, Junbing Yan, **Jianing Wang**, Yukang Xie, jun huang and Ying Gao
-<br>
-The 12th CCF International Conference on Natural Language Processing and Chinese Computing (**NLPCC 2023**, Full Paper)
-
-
-- **XtremeCLIP: Extremely Parameter-efficient Tuning for Low-resource Vision Language Understanding** [[pdf](https://aclanthology.org/2023.findings-acl.397.pdf)][[bib](https://dblp.org/rec/conf/acl/Tang0WTHCQ23.html?view=bibtex)]
-<br>
-Moming Tang, Chengyu Wang, **Jianing Wang**, Chuanqi Tan, Songfang Huang, Cen CHEN and Weining Qian
-<br>
-The 61st Annual Meeting of the Association for Computational Linguistics (**ACL 2023**, Findings Paper)
-
-- **When Gradient Descent Meets Derivative-Free Optimization: A Match Made in Black-Box Scenario** [[pdf](https://aclanthology.org/2023.findings-acl.55.pdf)][[bib](https://dblp.org/rec/conf/acl/0004CZWCSLG23.html?view=bibtex)]
-<br>
-Chengcheng Han, Liqing Cui, Renyu Zhu, **Jianing Wang**, Nuo Chen, Qiushi Sun, Xiang Li and Ming Gao
-<br>
-The 61st Annual Meeting of the Association for Computational Linguistics (**ACL 2023**, Findings Paper)
-
-- **Uncertainty-aware Self-training for Neural Sequence Labeling** [[pdf](https://arxiv.org/pdf/2302.08659)][[bib](https://dblp.org/rec/journals/corr/abs-2302-08659.html?view=bibtex)]
-<br>
-**Jianing Wang**, Chengyu Wang, Jun Huang, Ming Gao, Aoying Zhou.
-<br>
-The 37th AAAI Conference on Artificial Intelligence (**AAAI 2023**, Full Paper)
+Teng Xiao, **Zhengyu Chen**, and Suhang Wang
+<br> Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2023**)
 
 ## 2022
 
-- **Knowledge Prompting in Pre-trained Language Model for Natural Language Understanding** [[pdf](https://aclanthology.org/2022.emnlp-main.207.pdf)][[bib](https://aclanthology.org/2022.emnlp-main.207.bib)]
+- **BA-GNN: On Learning Bias-Aware Graph Neural Network**
 <br>
-**Jianing Wang**, Wenkang Huang, Minghui Qiu, Qiuhui Shi, Hongbin Wang, Xiang Li, Ming Gao
-<br>
-The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**, Main Paper)
+**Zhengyu Chen**, Teng Xiao, Kun Kuang
+<br> 38th IEEE International Conference on Data Engineering (**ICDE 2022**)
 
-<!-- <br> -->
+- **End-to-End Open-Set Semi-Supervised Node Classification with Out-of-Distribution Detection**
+<br>
+Tiancheng Huang, Dong Wang, Ya Fang, **Zhengyu Chen**
+<br> International Joint Conference on Artificial Intelligence (**IJCAI 2022**)
 
-- **KECP: Knowledge-Enhanced Contrastive Prompting for Few-shot Extractive Question Answering** [[pdf](https://aclanthology.org/2022.emnlp-main.206.pdf)][[bib](https://aclanthology.org/2022.emnlp-main.206.bib)]
+- **Learn Goal-Conditioned Policy with Intrinsic Motivation for Deep Reinforcement Learning**
 <br>
-**Jianing Wang**†, Chengyu Wang†, Minghui Qiu, Qiuhui Shi, Hongbin Wang, Jun Huang, Ming Gao
-<br>
-The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**, Main Paper)
+Jinxin Liu, Dong Wang, Qi Tian, **Zhengyu Chen**
+<br> Thirty-Sixth AAAI Conference on Artificial Intelligence (**AAAI 2022**)
 
-<!-- <br> -->
+- **The Role of Deconfounding in Meta-learning**
+<br>
+Yinjie Jiang†*, **Zhengyu Chen***, Luotian Yuan, Ying Wei, Kun Kuang, Fei Wu
+<br> Proceedings of the 39th International Conference on Machine Learning (**ICML 2022**)
 
-- **SpanProto: A Two-stage Span-based Prototypical Network For Few-shot Named Entity Recognition** [[pdf](https://aclanthology.org/2022.emnlp-main.227.pdf)][[bib](https://aclanthology.org/2022.emnlp-main.227.bib)]
+- **Decoupled Self-supervised Learning for Non-Homophilous Graphs**
 <br>
-**Jianing Wang**, Chengyu Wang, Chuanqi Tan, Minghui Qiu, Songfang Huang, Jun Huang, Ming Gao
-<br>
-The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**, Main Paper)
-
-<!-- <br> -->
-
-- **Towards Unified Prompt Tuning for Few-shot Text Classification** [[pdf](https://aclanthology.org/2022.findings-emnlp.37.pdf)][[bib](https://aclanthology.org/2022.emnlp-main.37.bib)]
-<br>
-**Jianing Wang***, Chengyu Wang*, Fuli Luo, Chuanqi Tan, Minghui Qiu, Fei Yang, Qiuhui Shi, Songfang Huang, Ming Gao
-<br>
-The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**, Findings Paper)
-
-<!-- <br> -->
-
-- **Revisiting and Advancing Chinese Natural Language Understanding with Accelerated Heterogeneous Knowledge Pre-training** [[pdf](https://aclanthology.org/2022.emnlp-industry.57.pdf)][[bib](https://dblp.org/rec/conf/emnlp/ZhangDWWWLHLH22.html?view=bibtex)]
-<br>
-Taolin Zhang, Junwei Dong, **Jianing Wang**, Chengyu Wang, Ang Wang, Yinghui Liu, Jun Huang, Yong Li, Xiaofeng He
-<br>
-The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**, Industry Track Paper)
-
-<!-- <br> -->
-
-- **EasyNLP: A Comprehensive and Easy-to-use Toolkit for Natural Language Processing** [[pdf](https://aclanthology.org/2022.emnlp-demos.3.pdf)][[bib](https://dblp.org/rec/conf/emnlp/WangQZLLWWHL22.html?view=bibtex)] 
-<br>
-Chengyu Wang, Minghui Qiu, Taolin Zhang, Tingting Liu, Lei Li, **Jianing Wang**, Ming Wang, Jun Huang, Wei Lin
-<br>
-The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**, Demo Paper)
+Teng Xiao, **Zhengyu Chen**, Zhimeng Guo, Zeyang Zhuang, Suhang Wang
+<br> Conference on Neural Information Processing Systems (**NeurIPS 2022**)
 
 ## 2021
 
-- **TransPrompt: Towards an Automatic Transferable Prompting Framework for Few-shot Text Classification** [[pdf](https://aclanthology.org/2021.emnlp-main.221.pdf)][[bib](https://aclanthology.org/2021.emnlp-main.221.bib)]
+- **Pareto Self-Supervised Training for Few-Shot Learning**
 <br>
-Chengyu Wang†, **Jianing Wang**†, Minghui Qiu, Jun Huang, Ming Gao
+**Zhengyu Chen**, Jixie Ge, Heshen Zhan, Donglin Wang
+<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR 2021**)
+
+- **Deep transfer tensor decomposition with orthogonal constraint for recommender systems**
 <br>
-The 2021 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2021**, Main Paper)
+**Zhengyu Chen**, Ziqing Xu, and Donglin Wang
+<br> Proceedings of the 35th AAAI Conference on Artificial Intelligence (**AAAI 2021**)
+
+- **Multi-Initialization Meta-learning With Domain Adaptation**
+<br>
+**Zhengyu Chen** and Donglin Wang
+<br> IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2021**)
+
+- **Learning How to Propagate Messages in Graph Neural Networks**
+<br>
+Teng Xiao, **Zhengyu Chen**, Donglin Wang and Suhang Wang
+<br> ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2021**)
+
+- **Improving Cold-Start Recommendation via Multi-prior Meta-learning**
+<br>
+**Zhengyu Chen**, Donglin Wang, Shiqian Yin
+<br> The Annual European Conference on Information Retrieval (**ECIR 2021**)
+
+## 2020
+
+- **Global and Local Tensor Factorization for Multi-Criteria Recommender System**
+<br>
+Shuliang Wang, Jingting Yang, **Zhengyu Chen**, Hanning Yuan, Jing Geng, Zhen Hai
+<br> Cell Patterns, 1(2): 100023 (**Cell Patterns 2020**)
+
+## 2019
+
+- **Deep Tensor Factorization for Multi-Criteria Recommender Systems**
+<br>
+**Zhengyu Chen**, Sibo Gai, Donglin Wang
+<br> Proceedings of 2019 IEEE International Conference on Big Data (**IEEE BigData 2019**)

@@ -11,92 +11,90 @@ redirect_from:
 
 Educations
 ======
-* Ph.D in School of Data Science and Engineering, East China Normal University, Shanghai, 2022 - 2024, Recommended Student. ⌛️
-* M.S in School of Data Science and Engineering, East China Normal University, Shanghai, 2019 - 2022, Recommended Student. ✅
-* B.S. in Jiang Su University of Science and Technology, Su Zhou, 2015 - 2019. ✅
+* Ph.D in Computer Science & Technology, Zhejiang University, China, 2019 - 2023. 
+  * National Scholarship.
+* M.S in Software Engineering, Beijing Institute of Technology, China, 2017 - 2019. 
+  * First Prize Scholarship.
+* B.S. in Engineering, Zhengzhou University, China, 2013 - 2017. 
+  * National Scholarship.
 
 
 
 Work Experiences
 ======
-* Visiting Scholar
-  * University of California, San Diego (2023.10 - 2024.02)
-  * Duties included: Graph Learning with LLMs.
-  * Supervisor: [Prof. Julian McAuley](https://cseweb.ucsd.edu//~jmcauley/).
+* Senior Researcher
+  * Meituan Technology Co., Ltd., China (2023 - Now)
+  * LongCat Team, Department of Fundamental Research & Development
+  * Leading Large Language Models (LLMs) development.
 
-* Research Internship
-  * Ant Group, Insurance Technology Department (2023.6 - 2023.9).
-  * Duties included: Medical LLM.
-  * Supervisor: [Hongbin Wang](https://scholar.google.com/citations?user=eXCh5OEAAAAJ&hl=en).
-  
-* Research Internship
-  * Ant Group, Insurance Technology Department (2021.6 - 2022.8).
-  * Duties included: Chinese Spelling Correction, Knowledge-enhanced Pre-trained Language Models.
-  * Supervisor: [Hongbin Wang](https://scholar.google.com/citations?user=eXCh5OEAAAAJ&hl=en).
-  * Achievements: 4 EMNLP paper.
+* Visiting Researcher
+  * Qwen Team Alibaba DAMO Academy, China (2021 - 2023)
+  * Contributing to large-scale language models: trillion-parameter M6, billion-parameter OFA, and billion-parameter Qwen.
 
-* Research Project Internship
-  * Alibaba Group, Platform of AI (2021.3 - Now).
-  * Duties included: Few-shot Learning, Large Language Models, Prompt-based Learning.
-  * Supervisor: [Dr. Chengyu Wang](https://chywang.github.io/), [Dr. Minghui Qiu](https://scholar.google.com/citations?user=xcqJyMgAAAAJ&hl=en).
-  * Achievements: 1 ACL papers, 6 EMNLP papers, 1 AAAI paper, EasyNLP open-source framework.
+* Research Assistant
+  * Zhejiang University, College of Computer Science and Technology, China (2019 - 2023)
+  * Ph.D. research in reinforcement learning, machine learning, and deep learning.
   
-Skills
+Research Interests
 ======
-* Natural Language Processing Researches:
-  * Language Modeling.
-    * Masked Language Modeling.
-    * Knowledge-enhanced Pre-trained Models.
-    * Instruction-tuning and Prompt-tuning.
-  * Information Extraction:
-    * Named Entity Recognition.
-    * Entity Typing.
-    * Relation Extraction.
-    * Event Extraction.
-  * Question Answering:
-    * Span-based Extractive QA.
-    * Commonsense QA.
-  * Text Mining:
-    * Text Classification.
-    * Natural Language Inference.
-    * Chinese Spelling Correction.
-    * Paraphrasing.
-* Languages:
-  * Python
-  * Pytorch
-  * Java
+* **Technical Focus**:
+  * Large Language Models (LLMs) pre-training and post-training
+  * Reinforcement Learning (RL) and RLHF
+  * Meta-learning and Few-shot Learning
+* **AI Technology**: AI-support systems for decision-making and resource allocation tasks
+* **Computation**: Computational and approximate methods in statistical inference
+* **Methodology**:
+  * Algorithmic fairness and bias mitigation (data and algorithmic bias)
+  * Uncertainty quantification in machine learning models
+  * Modeling low-SNR data
+  * Fair and trustworthy AI systems in uncertain settings
+
+
+Technical Skills
+======
+* **Programming Languages**: Python, C++, Java
+* **Machine Learning Frameworks**: PyTorch, TensorFlow
+* **Deep Learning Expertise**: 
+  * Transformer architectures and attention mechanisms
+  * Reinforcement Learning
+  * Self-supervised Learning
+  * Transfer Learning and Meta-learning
 
 Publications
 ======
   Please refer to [Publications](./publications.md).
 
-Awards
+Academic Honors & Awards
 ======
-* Competitions:
-  * [2022-12] [International Algorithm Case Competition](https://iacc.pazhoulab-huangpu.com/), The Third Place (3/96).
-  * [2022-07] [AIWIN Spring Competition (Chinese Insurance Multi-task Competition)](http://www.aiwin.org.cn/competitions/68), The Second Place.
-  * [2022-07] [CLUE Benchmarks Version 1.1](https://www.cluebenchmarks.com/rank.html), The 15-th Place (2/109)
-  * [2020-12] 'Huawei Cup' The 17th China Post-Graduate Mathematical Contest in Modeling, Second Prize.
-* Scholarship:
-  * [2023-12] National Scholarship.
-  * [2022-12] HuaXin Scholarship.
-  * [2021-12] HuaXin Scholarship.
-* Others:
-  * Outstanding Undergraduate Graduates.
-  * Excellent Graduation Thesis of Jiangsu Province in 2019.
+
+* **Scholarships & Recognition**:
+  * National Scholarship (2023) - China
+  * First Prize Scholarship (2019) - Beijing Institute of Technology
+  * National Scholarship (2017) - Zhengzhou University
   
-Teaching or Teaching Assistant
+Professional Services
 ======
-* [2022-09-01 ~ 2023-01-30] Algorithm Foundations for Data Science and Engineering
-  * Instructor: [Ming Gao](http://dase.ecnu.edu.cn/mgao/).
-  * Teaching Assistant: Jianing Wang (王嘉宁 Ph. D. candidate) and Nuo Chen (陈诺 Master candidate).
-  * Office: Rm. 110, Math. Building.
-  * ourse time: Monday 8:00 am - 10:00 am (Since Sep. 5, 2022), Thursday 14:50 pm - 16:25 pm (Since Sep. 8, 2022).
-* [2022-09-01 ~ 2023-01-30] Data Middle Platform
-  * Instructor: Cen Chen.
-  * Teaching Assistant: Jianing Wang (王嘉宁 Ph. D. candidate).
+* **Program Committee & Leadership Positions**:
+  * Large Language Model Systems Core Researcher at Meituan (2023 - Now)
+  * Luoxi Edge-Cloud Platform Core Contributor at Alibaba DAMO Academy (2021 - 2023)
+
+* **Review Assignments** (135+ total):
+  * International Conference on Learning Representations  (2023 - Now)
+  * International Conference on Machine Learning (ICML) (2023 - Now)
+  * International Conference on Neural Information Processing Systems (NeurIPS) (2023 - Now)
+  * ACM Transactions on Information Systems (TOIS) (2020 - Now)
+  * IEEE Transactions on Cybernetics (TCYB) (2021 - Now)
+  * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) (2022 - Now)
+  * IEEE International Conference on Computer Vision (ICCV) (2022 - Now)
+  * ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (2021 - Now)
+  * Association for the Advancement of Artificial Intelligence (AAAI) (2021 - Now)
+  * International Joint Conference on Artificial Intelligence (IJCAI) (2021 - Now)
+  * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (2021 - Now)
+  * ACM International Conference on Multimedia (MM) (2022 - Now)
+  
+* **Professional Memberships**:
+  * Member of IEEE, ACM, AAAI, and ACL (2020 - Now)
 
 CV PDF
 ======
-<!-- * The Chinese CV PDF is [here](../files/%E7%8E%8B%E5%98%89%E5%AE%81%E7%9A%84%E7%AE%80%E5%8E%86%EF%BC%8823-03-06%EF%BC%89.pdf). -->
-* The English CV PDF is [here](../files/Jianing_Wang_Academic_CV%20(24-03-15).pdf)
+* The English CV PDF is [here](../files/Zhengyu_Chen_CV.pdf)
