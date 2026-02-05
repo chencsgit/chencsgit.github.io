@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhengyu Chen (陈政聿)"
+title                    : "Zhengyu Chen"
 title_separator          : "-"
 name                     : &name "Zhengyu Chen"
 description              : &description "Senior Researcher at Meituan"
