@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jianing Wang" # Your Sidebar Name
+  name             : "Zhengyu Chen" # Your Sidebar Name
   avatar           : "profile.png"
-  bio              : "NLP & Knowledge Graph"
-  location         : "Shanghai, China"
-  employer         : "East China Normal University"
+  bio              : "Large Language Models & Trustworthy AI"
+  location         : "Beijing, China"
+  employer         : "Meituan LongCat Team"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ccaimI8AAAAJ&hl=en"
-  email            : "lygwjn@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=PqrvpbkAAAAJ&hl=zh-CN"
+  email            : "chencsmat@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wjn1996"
+  github           : "chencsgit"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-6006-053X"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

@@ -19,7 +19,7 @@ author_profile: true
 ## HugNLP Open-source Library
 * Paper: [[HugNLP](https://arxiv.org/pdf/2302.14286)].
 * Project Link: [https://github.com/HugAILab/HugNLP](https://github.com/HugAILab/HugNLP).
-* HugNLP homepage: [https://github.com/wjn1996/](https://github.com/wjn1996/HugNLP)
+* HugNLP homepage: [https://github.com/HugAILab/HugNLP](https://github.com/HugAILab/HugNLP)
 * Time: From 2023-01-01 to Now.
 
 > HugNLP is a novel development and application library based on Hugging Face for improving the convenience and effectiveness of NLP researchers.
