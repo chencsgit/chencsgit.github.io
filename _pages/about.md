@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 🔥News
-======
+
 
 * [2025-09-22] We release [LongCat-Flash-Thinking](https://github.com/meituan-longcat/LongCat-Flash-Thinking), which is an efficient and powerful large reasoning model on solving general reasoning, formal proving, and agentic tasks. 🔥🔥🔥
 <!-- * [2025-08-21] Our two papers have been accepted to EMNLP 2025 (Findings and Main): [Prejudge-Before-Think: A new Thinking Pattern for LLM](https://arxiv.org/pdf/2504.13500), [Analysis of Formal Language in LLM](https://arxiv.org/pdf/2505.16998)
@@ -30,7 +30,7 @@ redirect_from:
 
 
 # 💻 Work Experience
-======
+
 * Senior Researcher
   * LongCat Team, Meituan, China (2023 - Now)
   * Leading Large Language Models (LLMs) development.
