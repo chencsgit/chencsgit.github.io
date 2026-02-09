@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-This page shows selected recent publications. For a complete list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=PqrvpbkAAAAJ&hl=zh-CN).
+This page shows selected recent publications. For a complete list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=PqrvpbkAAAAJ).
 
 
 ## 2025
