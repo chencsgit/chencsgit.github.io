@@ -18,7 +18,7 @@ redirect_from:
 <!-- <a href='https://damo.alibaba.com/' target="_blank"><img src='./images/alibaba.png' align="center" style='vertical-align: middle; width: 78px;'></a> -->
 
 
-News
+# 🔥News
 ======
 
 * [2025-09-22] We release [LongCat-Flash-Thinking](https://github.com/meituan-longcat/LongCat-Flash-Thinking), which is an efficient and powerful large reasoning model on solving general reasoning, formal proving, and agentic tasks. 🔥🔥🔥
@@ -27,3 +27,15 @@ News
 * [2025-01-23] Our one paper has been accepted to ICLR 2025: [OCEAN: Offline CoT for RLVR](https://arxiv.org/pdf/2410.23703)
 * [2024-12-10] Our one paper has been accepted to AAAI 2025: [Uncertainty-Preference-Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/34724)
 * [2024-05-19] Our two papers have been accepted to ACL 2024 (Main and Findings): [Chain-of-Knowledge](https://arxiv.org/pdf/2306.06427), [InstructGraph](https://arxiv.org/pdf/2402.08785) -->
+
+
+# 💻 Work Experience
+
+
+# 📝 Publications 
+
+
+# Academic Services
+
+# Talks
+

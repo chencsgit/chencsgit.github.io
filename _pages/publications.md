@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-This page shows selected recent publications. For a complete list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=PqrvpbkAAAAJ&hl=zh-CN). † means equal contribution.
+This page shows selected recent publications. For a complete list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=PqrvpbkAAAAJ&hl=zh-CN).
 
 
 ## 2025
@@ -23,7 +23,7 @@ This page shows selected recent publications. For a complete list, please visit 
 - **Revisiting Scaling Laws for Language Models: The Role of Data Quality and Training Strategies**
 <br>
 **Zhengyu Chen**, S Wang, Teng Xiao, Y Wang, S Chen, X Cai, J He, J Wang
-<br> The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**, Main Paper)
+<br> The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**)
 
 
 
@@ -58,7 +58,7 @@ Yuyan Chen, Zehao Li, Shuangjie You, **Zhengyu Chen**, Jingwen Chang, Yi Zhang, 
 
 - **Simple and asymmetric graph contrastive learning without augmentations**
 <br>
-Teng Xiao†, Huai Zhu, **Zhengyu Chen**, Suhang Wang
+Teng Xiao, Huai Zhu, **Zhengyu Chen**, Suhang Wang
 <br> Advances in Neural Information Processing Systems 36 (**NeurIPS 2024**)
 
 - **Pareto graph self-supervised learning**
@@ -105,7 +105,7 @@ Siqi Wang, **Zhengyu Chen**, Bei Li, Keqing He, Min Zhang, Jingang Wang
 
 - **Robustness Evaluation of Multi-Agent Reinforcement Learning Algorithms using Gaussian Noise Attacks**
 <br>
-Xusheng Zhang†, Wei Zhang, **Zhengyu Chen**, Sihong He
+Xusheng Zhang, Wei Zhang, **Zhengyu Chen**, Sihong He
 <br> 2023 International Conference on Learning Representations (**ICLR 2023**)
 
 - **DUET: A Tuning-Free Device-Cloud Collaborative Parameters Generation Framework for Efficient Device Model Generalization**
@@ -137,7 +137,7 @@ Jinxin Liu, Dong Wang, Qi Tian, **Zhengyu Chen**
 
 - **The Role of Deconfounding in Meta-learning**
 <br>
-Yinjie Jiang†*, **Zhengyu Chen***, Luotian Yuan, Ying Wei, Kun Kuang, Fei Wu
+Yinjie Jiang*, **Zhengyu Chen***, Luotian Yuan, Ying Wei, Kun Kuang, Fei Wu
 <br> Proceedings of the 39th International Conference on Machine Learning (**ICML 2022**)
 
 - **Decoupled Self-supervised Learning for Non-Homophilous Graphs**
